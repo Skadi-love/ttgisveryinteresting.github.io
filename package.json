@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0579a5050fd29ce36a8ff3264b48d52df69a0edf23f1b61ad91444a295862f1
+size 223
+=======
+{
+    "name": "",
+    "main": "index.html",
+    "js-flags": "--expose-gc",
+    "window": {
+        "title": "",
+        "toolbar": false,
+        "width": 816,
+        "height": 624,
+        "icon": "icon/icon.png"
+    }
+}
+>>>>>>> f2df63df0a8d79b294c9f81ed643b34559209f96
